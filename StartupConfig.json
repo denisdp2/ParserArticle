@@ -1,0 +1,3 @@
+{
+    "DbConnection" : "Host=db; Database=blogator; Username=dbuser; Password=dbpwd"
+}

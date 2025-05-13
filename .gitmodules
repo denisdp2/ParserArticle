@@ -1,0 +1,24 @@
+[submodule "framework"]
+	path = framework
+	url = git@git.ooplabs.ru:trspo/course-projects/blogator/framework.git
+[submodule "api"]
+	path = api
+	url = git@git.ooplabs.ru:trspo/course-projects/blogator/api.git
+[submodule "core"]
+	path = core
+	url = git@git.ooplabs.ru:trspo/course-projects/blogator/core.git
+[submodule "runner"]
+	path = runner
+	url = git@git.ooplabs.ru:trspo/course-projects/blogator/runner.git
+[submodule "web/adminpanel"]
+	path = web/adminpanel
+	url = git@git.ooplabs.ru:trspo/course-projects/blogator/web/adminpanel.git
+[submodule "store"]
+	path = store
+	url = git@git.ooplabs.ru:trspo/course-projects/blogator/store/store.git
+[submodule "security/authentication"]
+	path = security/authentication
+	url = git@git.ooplabs.ru:trspo/course-projects/blogator/security/authentication.git
+[submodule "collector"]
+	path = collector
+	url = git@git.ooplabs.ru:trspo/course-projects/blogator/collector/collector.git
